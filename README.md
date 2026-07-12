@@ -2,7 +2,6 @@
 
 > **Service discontinued:** Equal Access Robotics is no longer operating. This repository is preserved as an archive of the organization and its platform.
 
-Equal Access Robotics was a nonprofit service teaching STEM to underprivileged children. It served more than 1,000 students with the support of 40+ tutors across 16 countries.
 
 ## What is included
 
